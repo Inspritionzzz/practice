@@ -1,0 +1,4 @@
+访问权限控制：
+1   packege CLASSPATH
+2   测试public protected private 包访问权限
+3   单例模式：把产生的对象赋给private修饰的 域中
