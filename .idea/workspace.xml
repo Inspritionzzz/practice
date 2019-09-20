@@ -4,7 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c3/P6.java" line="16" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2e0723-e093-4245-b3ef-7138dba2b1a8" name="Default Changelist" comment="" />
+    <list default="true" id="fb2e0723-e093-4245-b3ef-7138dba2b1a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,15 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c8/P13.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c8/P14a.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,7 +44,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c8/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="786">
+            <state relative-caret-position="756">
               <caret line="40" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -59,11 +53,30 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+            <state relative-caret-position="147">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+              <folding>
+                <element signature="e#66#67#0" expanded="true" />
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,8 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c7/P3.java" />
-        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c7/P4.java" />
         <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c7/P5.java" />
         <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c7/P6.java" />
         <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c7/P7.java" />
@@ -179,6 +190,8 @@
         <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c8/P15.java" />
         <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c8/P16.java" />
         <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c8/P17.java" />
+        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P1.java" />
+        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/Test.java" />
       </list>
     </option>
   </component>
@@ -194,9 +207,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="CatdeaLogs" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,6 +244,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,7 +257,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -265,7 +278,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P16">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="P12a_P14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bupt.thinkinjava.c8.P12a_P14" />
       <module name="JustPractice" />
@@ -318,12 +331,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P9_P12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bupt.thinkinjava.c8.P9_P12" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bupt.thinkinjava.c10.Test" />
       <module name="JustPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bupt.thinkinjava.c8.*" />
+          <option name="PATTERN" value="com.bupt.thinkinjava.c10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,11 +346,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.P16" />
         <item itemvalue="Application.P15" />
         <item itemvalue="Application.P12a_P14" />
         <item itemvalue="Application.P13" />
-        <item itemvalue="Application.P9_P12" />
       </list>
     </recent_temporary>
   </component>
@@ -376,12 +389,14 @@
       <workItem from="1568886293789" duration="199000" />
       <workItem from="1568886521953" duration="79000" />
       <workItem from="1568886631566" duration="541000" />
-      <workItem from="1568887207261" duration="1844000" />
+      <workItem from="1568887207261" duration="2005000" />
+      <workItem from="1568896472088" duration="989000" />
+      <workItem from="1568943141822" duration="3747000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142131000" />
+    <option name="totallyTimeSpent" value="147028000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -393,10 +408,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="31" y="-14" width="1890" height="1095" extended-state="6" />
+    <frame x="32" y="-4" width="1888" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49793816" visible="true" weight="0.1819172" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49793816" visible="true" weight="0.18627451" />
       <window_info id="Structure" order="1" sideWeight="0.50206184" side_tool="true" weight="0.29520696" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -405,14 +420,14 @@
       <window_info id="Favorites" order="6" sideWeight="0.5010309" side_tool="true" weight="0.29520696" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.34536082" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2701031" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49945533" visible="true" weight="0.2701031" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49945533" weight="0.25051546" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.11958763" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50054467" side_tool="true" weight="0.25051546" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50054467" side_tool="true" weight="0.2701031" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.21340206" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32886598" />
@@ -505,14 +520,12 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c4/P1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c4/readme">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -910,6 +923,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c8/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c8/P16.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1155">
@@ -945,20 +968,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c8/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="786">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        <state relative-caret-position="450">
+          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="e#66#67#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
