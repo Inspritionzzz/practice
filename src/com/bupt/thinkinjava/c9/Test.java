@@ -10,11 +10,20 @@ class Test4{
     public String toString() {
         return "Test4";
     }
+
+    public void print1(String str){
+        print(str);
+    }
 }
-class Test5 extends Test4{
+class Test5 extends Test4 {
 
     public String toString() {
         return "Test5";
+    }
+
+    @Override
+    public void print1(String str) {
+        super.print1(str);
     }
 }
 public class Test {
