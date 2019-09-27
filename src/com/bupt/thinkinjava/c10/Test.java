@@ -1,5 +1,10 @@
 package com.bupt.thinkinjava.c10;
 
+import java.util.AbstractCollection;
+import java.util.Collection;
+import java.util.Iterator;
+import java.util.Map;
+
 import static com.bupt.utils.Print.print;
 
 class WithInner{
@@ -26,6 +31,23 @@ class MyInner extends WithInner.Inner {
         withInner.super();
     }
 }
+
+//class Test1 implements Collection {
+//
+//
+//}
+//
+//class Test1 extends AbstractCollection{
+//    @Override
+//    public Iterator iterator() {
+//        return null;
+//    }
+//
+//    @Override
+//    public int size() {
+//        return 0;
+//    }
+//}
 public class Test {
     public static void main(String[] args) {
         new MyInner(new WithInner());
@@ -34,5 +56,11 @@ public class Test {
         WithInner.Inner inner=withInner.new Inner();
         WithInner withInner1=inner.getWithInner();
         print(withInner1.id);
+        System.out.println("++++++++++++");
+        print(System.getenv());
+        for(Map.Entry entry:System.getenv().entrySet()){
+            System.out.println(entry.getKey()+"   "+entry.getValue());
+
+        }
     }
 }
