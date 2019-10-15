@@ -7,6 +7,9 @@
   <component name="ChangeListManager">
     <list default="true" id="fb2e0723-e093-4245-b3ef-7138dba2b1a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JustPractice/com/bupt/thinkinjava/c10/Outter04$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JustPractice/com/bupt/thinkinjava/c10/Outter04$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JustPractice/com/bupt/thinkinjava/c10/Outter04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JustPractice/com/bupt/thinkinjava/c10/Outter04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JustPractice/com/bupt/thinkinjava/c10/P12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JustPractice/com/bupt/thinkinjava/c10/P12.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,111 +27,122 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P6.java">
+        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P14.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+            <state relative-caret-position="367">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P7.java">
+        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P16.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P9_P10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+            <state relative-caret-position="1188">
+              <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="47" />
               <folding>
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#755#756#0" expanded="true" />
+                <element signature="e#1072#1073#0" expanded="true" />
+                <element signature="e#1118#1119#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P11.java">
+        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P19.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="357">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
               <folding>
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P17.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1794">
+              <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#625#626#0" expanded="true" />
+                <element signature="e#667#668#0" expanded="true" />
+                <element signature="e#1083#1084#0" expanded="true" />
+                <element signature="e#1125#1126#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P18.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+              <folding>
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P19.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+              <folding>
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P19a.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P12.java">
+        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P20_P21.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            <state relative-caret-position="437">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
-                <element signature="e#146#248#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#773#774#0" expanded="true" />
+                <element signature="e#812#813#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/Sequence.java">
+        <entry file="file://$PROJECT_DIR$/out/production/JustPractice/com/bupt/thinkinjava/c10/Outter.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/C10_P9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1029">
-              <caret line="57" column="20" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="20" />
+            <state relative-caret-position="546">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#827#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -150,16 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c8/P12a_P14.java" />
-        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c8/P14a.java" />
-        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c8/P15.java" />
-        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c8/P16.java" />
-        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c8/P17.java" />
-        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P1.java" />
-        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P2.java" />
-        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P3.java" />
-        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P4.java" />
-        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P5.java" />
         <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/simple/c9_P5.java" />
         <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P6.java" />
         <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P7.java" />
@@ -201,14 +205,24 @@
         <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/C10_P9.java" />
         <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P11.java" />
         <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P12.java" />
+        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P13.java" />
+        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P15.java" />
+        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P14.java" />
+        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P16.java" />
+        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P17.java" />
+        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P18.java" />
+        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P19.java" />
+        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P19a.java" />
+        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P20.java" />
+        <option value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P20_P21.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="33" />
-    <option name="y" value="131" />
-    <option name="width" value="1887" />
-    <option name="height" value="949" />
+    <option name="x" value="115" />
+    <option name="y" value="489" />
+    <option name="width" value="1883" />
+    <option name="height" value="927" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -224,6 +238,17 @@
             <path>
               <item name="JustPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="JustPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JustPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JustPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JustPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JustPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JustPractice" type="b2602c69:ProjectViewProjectNode" />
@@ -257,6 +282,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="bupt" type="462c0819:PsiDirectoryNode" />
               <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="c10" type="462c0819:PsiDirectoryNode" />
+              <item name="P20_P21.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="JustPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JustPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bupt" type="462c0819:PsiDirectoryNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
               <item name="simple" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -272,7 +306,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/bupt/thinkinjava/c10" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -299,9 +333,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P12">
-    <configuration name="P11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bupt.thinkinjava.c10.P11" />
+  <component name="RunManager" selected="Application.P20">
+    <configuration name="P16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bupt.thinkinjava.c10.P16" />
       <module name="JustPractice" />
       <extension name="coverage">
         <pattern>
@@ -313,8 +347,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bupt.thinkinjava.c10.P12" />
+    <configuration name="P17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bupt.thinkinjava.c10.P17" />
       <module name="JustPractice" />
       <extension name="coverage">
         <pattern>
@@ -326,8 +360,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bupt.thinkinjava.c10.P7" />
+    <configuration name="P18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bupt.thinkinjava.c10.P18" />
       <module name="JustPractice" />
       <extension name="coverage">
         <pattern>
@@ -339,8 +373,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bupt.thinkinjava.c10.P8" />
+    <configuration name="P19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bupt.thinkinjava.c10.P19" />
       <module name="JustPractice" />
       <extension name="coverage">
         <pattern>
@@ -352,8 +386,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P9_P10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bupt.thinkinjava.c10.P9_P10" />
+    <configuration name="P20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bupt.thinkinjava.c10.P20" />
       <module name="JustPractice" />
       <extension name="coverage">
         <pattern>
@@ -367,11 +401,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P12" />
-        <item itemvalue="Application.P11" />
-        <item itemvalue="Application.P9_P10" />
-        <item itemvalue="Application.P8" />
-        <item itemvalue="Application.P7" />
+        <item itemvalue="Application.P20" />
+        <item itemvalue="Application.P19" />
+        <item itemvalue="Application.P18" />
+        <item itemvalue="Application.P17" />
+        <item itemvalue="Application.P16" />
       </list>
     </recent_temporary>
   </component>
@@ -422,12 +456,15 @@
       <workItem from="1569720932730" duration="1216000" />
       <workItem from="1569809936277" duration="1269000" />
       <workItem from="1570625591426" duration="2362000" />
-      <workItem from="1570671356786" duration="6267000" />
+      <workItem from="1570671356786" duration="7589000" />
+      <workItem from="1570785957354" duration="2098000" />
+      <workItem from="1571036523404" duration="4189000" />
+      <workItem from="1571103837401" duration="9974000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197372000" />
+    <option name="totallyTimeSpent" value="214955000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,9 +477,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="32" y="-4" width="1888" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49793816" visible="true" weight="0.21187364" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49793816" visible="true" weight="0.22004357" />
       <window_info id="Structure" order="1" sideWeight="0.50206184" side_tool="true" weight="0.29520696" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -451,7 +487,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5010309" side_tool="true" weight="0.29520696" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.34536082" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49945533" visible="true" weight="0.24020618" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49945533" visible="true" weight="0.1927835" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -557,91 +593,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c7/P7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c7/P8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c7/P9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-84">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c7/P10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c7/P1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c7/P2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/reusing/Detergent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c7/P3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c7/P4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c7/P5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -771,13 +722,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P18a.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/nio/CharBuffer.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -799,16 +743,6 @@
           <folding>
             <element signature="e#399#400#0" expanded="true" />
             <element signature="e#432#433#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P19.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="61" column="4" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -887,6 +821,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P9_P10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/C10_P9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -904,76 +905,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P7.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P18a.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        <state relative-caret-position="294">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/Sequence.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P15.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P9_P10.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P14.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        <state relative-caret-position="367">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="47" />
           <folding>
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#1072#1073#0" expanded="true" />
+            <element signature="e#1118#1119#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/C10_P9.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c9/P19.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="357">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
           <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P12.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P17.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        <state relative-caret-position="1794">
+          <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
           <folding>
-            <element signature="e#146#248#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#1083#1084#0" expanded="true" />
+            <element signature="e#1125#1126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/JustPractice/com/bupt/thinkinjava/c10/Outter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#827#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P19a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bupt/thinkinjava/c10/P20_P21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
           </folding>
         </state>
       </provider>
