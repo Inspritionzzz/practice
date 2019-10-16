@@ -3,7 +3,8 @@ package com.bupt.thinkinjava.c10;//: innerclasses/Sequence.java
 
 /**
  * 迭代器设计模式；
- * Sequence装数据，Selector取数据（对外暴露三个接口）
+ * Sequence装数据，Selector取数据（对外暴露三个接口）;
+ * Selector写在Sequence里面；
  */
 interface Selector {
   boolean end();
