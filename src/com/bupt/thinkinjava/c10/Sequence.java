@@ -1,4 +1,4 @@
-package com.bupt.thinkinjava.c10;//: innerclasses/Sequence.java
+package com.bupt.thinkinjava.c10;//: innerclasses/P3.java
 // Holds a sequence of Objects.
 
 /**
