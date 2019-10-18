@@ -1,6 +1,4 @@
 package com.bupt.thinkinjava.c11;
-
-
 import java.util.*;
 
 import static com.bupt.utils.Print.print;
@@ -45,7 +43,52 @@ public class P6 {
 
         print("10:"+strs01.containsAll(subList));
 
+        Collections.sort(subList);
+        print("subList:"+subList);
+        print("11:"+strs01.containsAll(subList));
 
+        Collections.shuffle(subList,random);
+        print("subList:"+subList);
+        print("12:"+strs01.containsAll(subList));
 
+        List<String> copy=new LinkedList<>(strs01);
+        print("copy:"+copy);
+
+        subList=Arrays.asList(strs01.get(1),strs01.get(4));
+        print("subList:"+subList);
+
+        copy.retainAll(subList);
+        print("13:"+copy);
+
+        copy=new ArrayList<>(strs01);
+        print("copy:"+copy);
+        copy.remove(1);
+        print("13:"+copy);
+
+        copy.add(1,"C");
+        copy.remove(subList);
+        print("14:"+copy);
+        copy.removeAll(subList);
+        print("15:"+copy);
+
+        copy.set(0,"C");
+        print("16:"+copy);
+
+        copy.addAll(3,subList);
+        print("17:"+copy);
+
+        print("18:"+copy.isEmpty());
+        copy.clear();
+        print("19:"+copy);
+        print("20:"+copy.isEmpty());
+
+        copy.addAll(Arrays.asList("A","B","C","D"));
+        print("21:"+copy);
+
+        Object[] objects=copy.toArray();
+        print("22:"+objects[0]);
+
+        String[] strings=copy.toArray(new String[0]);
+        print("23:"+strings[1]);
     }
 }
